@@ -71,8 +71,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ### 🌟 Reflection (STAR Technique)
 **Situation:** I was ready to begin applying for internships.  
 **Task:** Submit my CV to at least 3 ICT companies.  
-**Action:** I researched relevant graduate programs and submitted my CV via their online portals.  
-**Result:** I applied to BDO South Africa, KPMG, and Forvis Mazars Group, increasing my chances of securing a graduate internship.
+**Action:** I researched relevantcompanies that were looking for interns and submitted my CV via their online portals.  
+**Result:** I applied to Amazon, BETSoftwares,Direct Hire, and many other companies increasing my chances of securing an internship.
 
 ---
 
