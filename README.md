@@ -28,7 +28,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 1. Career Counselling
 
 ### 📄 Evidence
-![image](https://github.com/user-attachments/assets/d195b150-3370-4b5e-843e-68d67ee52ddd)
+![image](https://github.com/user-attachments/assets/b08e9ec4-f133-492e-88fd-71fc9671fa66)
+
 
 
 ### 🌟 Reflection (STAR Technique)
@@ -42,7 +43,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 2. Skills and Interests
 
 ### 📄 Evidence
-![image](https://github.com/user-attachments/assets/2bc27a8d-b47a-4989-a463-4e249d0e0c2b)
+![image](https://github.com/user-attachments/assets/749907e2-b6a5-42b7-975e-2c29e3a733b1)
+
 
 
 ### 🌟 Reflection (STAR Technique)
@@ -56,7 +58,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 3. Personality Assessment
 
 ### 📄 Evidence
-![image](https://github.com/user-attachments/assets/17c7d671-dbcd-47aa-b343-4ba266aa44fd)
+![image](https://github.com/user-attachments/assets/f49feef0-82ac-4379-a50e-4950fd16b383)
+
 
 
 ### 🌟 Reflection (STAR Technique)
@@ -70,7 +73,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 4. Create a CV
 
 ### 📄 Evidence
-![image](https://github.com/user-attachments/assets/40792108-f3c7-4ee5-9d2c-06f6f57ec9f9)
+![image](https://github.com/user-attachments/assets/95863459-6bd6-4217-aad2-4bc51e2c43e0)
+
 
 
 
@@ -88,10 +92,10 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 [My CV (PDF)](https://github.com/222705698/E-Portfolio/blob/main/Sinokholo%20Singazi%20Resume.pdf%20(1).pdf)
 
 ### 🌟 Reflection (STAR Technique)
-**Situation:** I was ready to begin applying for internships.  
-**Task:** Submit my CV to at least 3 ICT companies.  
-**Action:** I researched relevantcompanies that were looking for interns and submitted my CV via their online portals.  
-**Result:** I applied to Amazon, BETSoftwares,Direct Hire, and many other companies increasing my chances of securing an internship.
+**Situation:**After completing my CV, I needed to submit it as part of the digital portfolio requirement and also to a job/internship listing to gain real-world experience. 
+**Task:** I was required to upload the CV on Blackboard and optionally submit it to a job board or company site.  
+**Action:** I saved my CV as PDF, uploaded it to Blackboard, and also submitted it to a junior IT support role via a job platform. I tracked the process and followed submission guidelines carefully.  
+**Result:** My CV was submitted on time and I received confirmation. This experience gave me real-world exposure to the job application process.
 
 ---
 
