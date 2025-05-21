@@ -4,7 +4,27 @@
 Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional development journey during the Work Readiness Training program.
 
 ---
+# 📑 Table of Contents
 
+- [🌟 Introduction](#-introduction)
+- [1️⃣ Career Counselling](#1-career-counselling)
+  - [📄 Evidence](#-evidence)
+  - [🌟 Reflection (STAR Technique)](#-reflection-star-technique)
+- [2️⃣ Skills and Interests](#2-skills-and-interests)
+  - [📄 Evidence](#-evidence-1)
+  - [🌟 Reflection (STAR Technique)](#-reflection-star-technique-1)
+- [3️⃣ Personality Assessment](#3-personality-assessment)
+  - [📄 Evidence](#-evidence-2)
+  - [🌟 Reflection (STAR Technique)](#-reflection-star-technique-2)
+- [4️⃣ Create a CV](#4-create-a-cv)
+  - [📄 Evidence](#-evidence-3)
+  - [🌟 Reflection (STAR Technique)](#-reflection-star-technique-3)
+- [5️⃣ CV Submission](#5-cv-submission)
+  - [📄 Evidence](#-evidence-4)
+  - [🌟 Reflection (STAR Technique)](#-reflection-star-technique-4)
+- [🔗 Conclusion](#-conclusion)
+  
+---
 ## 1. Career Counselling
 
 ### 📄 Evidence
@@ -65,8 +85,7 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 5. CV Submission
 
 ### 📄 Evidence
-- Screenshot of CV submission confirmation
-- List of companies I’ve applied to
+[My CV (PDF)](https://github.com/222705698/E-Portfolio/blob/main/Sinokholo%20Singazi%20Resume.pdf%20(1).pdf)
 
 ### 🌟 Reflection (STAR Technique)
 **Situation:** I was ready to begin applying for internships.  
@@ -74,7 +93,6 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 **Action:** I researched relevantcompanies that were looking for interns and submitted my CV via their online portals.  
 **Result:** I applied to Amazon, BETSoftwares,Direct Hire, and many other companies increasing my chances of securing an internship.
 
-[My CV (PDF)](https://github.com/222705698/E-Portfolio/blob/main/Sinokholo%20Singazi%20Resume.pdf%20(1).pdf)
 ---
 
 ## 🔗 Conclusion
