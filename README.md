@@ -50,7 +50,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 ## 4. Create a CV
 
 ### 📄 Evidence
-![image](https://github.com/user-attachments/assets/dea58484-79ca-4667-94dc-793e15dca178)
+![image](https://github.com/user-attachments/assets/40792108-f3c7-4ee5-9d2c-06f6f57ec9f9)
+
 
 
 ### 🌟 Reflection (STAR Technique)
