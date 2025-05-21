@@ -74,6 +74,7 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 **Action:** I researched relevantcompanies that were looking for interns and submitted my CV via their online portals.  
 **Result:** I applied to Amazon, BETSoftwares,Direct Hire, and many other companies increasing my chances of securing an internship.
 
+[My CV (PDF)](https://github.com/222705698/E-Portfolio/blob/main/Sinokholo%20Singazi%20Resume.pdf%20(1).pdf)
 ---
 
 ## 🔗 Conclusion
