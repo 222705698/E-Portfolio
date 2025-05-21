@@ -92,7 +92,8 @@ Welcome to my PRP370S Digital Portfolio. This portfolio reflects my professional
 [My CV (PDF)](https://github.com/222705698/E-Portfolio/blob/main/Sinokholo%20Singazi%20Resume.pdf%20(1).pdf)
 
 ### 🌟 Reflection (STAR Technique)
-**Situation:**After completing my CV, I needed to submit it as part of the digital portfolio requirement and also to a job/internship listing to gain real-world experience. 
+**Situation:** After completing my CV, I needed to submit it as part of the digital portfolio requirement and also to a job/internship listing to gain real-world experience. 
+
 **Task:** I was required to upload the CV on Blackboard and optionally submit it to a job board or company site.  
 **Action:** I saved my CV as PDF, uploaded it to Blackboard, and also submitted it to a junior IT support role via a job platform. I tracked the process and followed submission guidelines carefully.  
 **Result:** My CV was submitted on time and I received confirmation. This experience gave me real-world exposure to the job application process.
